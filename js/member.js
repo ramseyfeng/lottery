@@ -1,66 +1,5 @@
 var member = [
   {
-    "phone": "fly-away.jpg",
-    "name": "奖品飞走了",
-    'boxUrl': 'img/b1.jpg',
-    'key': 'gift1'
-  },
-  {
-    "phone": "fly-away.jpg",
-    "name": "奖品飞走了",
-    'boxUrl': 'img/b1.jpg',
-    'key': 'gift1-2'
-  },
-  {
-    "phone": "nothing.jpg",
-    "name": "什么都没有",
-    'boxUrl': 'img/b2.jpg',
-    'key': 'gift2'
-  },
-  {
-    "phone": "nothing.jpg",
-    "name": "什么都没有",
-    'boxUrl': 'img/b2.jpg',
-    'key': 'gift2-2'
-  },
-  {
-    "phone": "jiayou.png",
-    "name": "继续加油噢",
-    'boxUrl': 'img/b3.jpg',
-    'key': 'gift3'
-  },
-  {
-    "phone": "jiayou.png",
-    "name": "继续加油噢",
-    'boxUrl': 'img/b3.jpg',
-    'key': 'gift3-2'
-  },
-  {
-    "phone": "jiayou.png",
-    "name": "继续加油噢",
-    'boxUrl': 'img/b3.jpg',
-    'key': 'gift3-3'
-  },
-  {
-    "phone": "seeyou.jpg",
-    "name": "下次再见吧",
-    'boxUrl': 'img/b4.jpg',
-    'key': 'gift4'
-  },
-
-  {
-    "phone": "seeyou.jpg",
-    "name": "下次再见吧",
-    'boxUrl': 'img/b4.jpg',
-    'key': 'gift4-2'
-  },
-  {
-    "phone": "seeyou.jpg",
-    "name": "下次再见吧",
-    'boxUrl': 'img/b4.jpg',
-    'key': 'gift4-3'
-  },
-  {
     "phone": "1flower.jpg",
     "name": "一朵太阳花",
     'boxUrl': 'img/b5.jpg',
@@ -127,6 +66,66 @@ var member = [
     'key': 'gift10-5'
   },
   {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-6'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-7'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-8'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-9'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-10'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-11'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-12'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-13'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-14'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-15'
+  },
+  {
     "phone": "2lollipops.jpg",
     "name": "两颗糖",
     'boxUrl': 'img/b9.jpg',
@@ -148,36 +147,36 @@ var member = [
     "phone": "3lollipops.jpg",
     "name": "三颗糖",
     'boxUrl': 'img/b10.jpg',
-    'key': 'gift12'
+    'key': 'gift12-1'
   },
   {
-    "phone": "stationery.jpg",
-    "name": "文具小礼物",
-    'boxUrl': 'img/b11.jpg',
-    'key': 'gift13'
+    "phone": "3lollipops.jpg",
+    "name": "三颗糖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift12-2'
   },
   {
-    "phone": "stationery.jpg",
-    "name": "文具小礼物",
-    'boxUrl': 'img/b11.jpg',
-    'key': 'gift13-2'
+    "phone": "3lollipops.jpg",
+    "name": "三颗糖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift12-3'
   },
   {
-    "phone": "stationery.jpg",
-    "name": "文具小礼物",
-    'boxUrl': 'img/b11.jpg',
-    'key': 'gift13-3'
+    "phone": "3lollipops.jpg",
+    "name": "三颗糖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift12-4'
   },
   {
-    "phone": "stationery.jpg",
-    "name": "文具小礼物",
-    'boxUrl': 'img/b11.jpg',
-    'key': 'gift13-4'
-  },
-  {
-    "phone": "stationery.jpg",
-    "name": "特别奖",
+    "phone": "bagOfSugar.jpg",
+    "name": "一包糖",
     'boxUrl': 'img/b12.jpg',
     'key': 'gift14'
-  }
+  },
+  {
+    "phone": "mistery.jpg",
+    "name": "特别奖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift16-1'
+  },
 ];
