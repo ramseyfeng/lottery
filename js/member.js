@@ -174,7 +174,7 @@ var member = [
     'key': 'gift14'
   },
   {
-    "phone": "mistery.jpg",
+    "phone": "misterybox.jpg",
     "name": "特别奖",
     'boxUrl': 'img/b10.jpg',
     'key': 'gift16-1'
