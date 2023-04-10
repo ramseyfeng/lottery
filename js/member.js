@@ -1,4 +1,135 @@
 var member = [
+    // 6颗糖
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-1'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-2'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-3'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-4'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-5'
+  },
+  {
+    "phone": "1lollipop.jpg",
+    "name": "一颗糖",
+    'boxUrl': 'img/b8.jpg',
+    'key': 'gift10-6'
+  },
+    // 6个（一个太阳花）
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5'
+  },
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5-2'
+  },
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5-3'
+  },
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5-4'
+  },
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5-5'
+  },
+  {
+    "phone": "1flower.jpg",
+    "name": "一朵太阳花",
+    'boxUrl': 'img/b5.jpg',
+    'key': 'gift5-6'
+  },
+// 3个（2颗糖）
+  {
+    "phone": "2lollipops.jpg",
+    "name": "两颗糖",
+    'boxUrl': 'img/b9.jpg',
+    'key': 'gift11'
+  },
+  {
+    "phone": "2lollipops.jpg",
+    "name": "两颗糖",
+    'boxUrl': 'img/b9.jpg',
+    'key': 'gift11-2'
+  },
+// 3个（2个太阳花）
+  {
+    "phone": "2flowers.jpg",
+    "name": "两朵太阳花",
+    'boxUrl': 'img/b6.jpg',
+    'key': 'gift6'
+  },
+  {
+    "phone": "2flowers.jpg",
+    "name": "两朵太阳花",
+    'boxUrl': 'img/b6.jpg',
+    'key': 'gift6-2'
+  },
+  {
+    "phone": "2flowers.jpg",
+    "name": "两朵太阳花",
+    'boxUrl': 'img/b6.jpg',
+    'key': 'gift6-3'
+  },
+    // 1个（3颗糖）
+  {
+    "phone": "3lollipops.jpg",
+    "name": "三颗糖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift12-1'
+  },
+    // 1个（3个太阳花）
+  {
+    "phone": "3flowers.jpg",
+    "name": "三朵太阳花",
+    'boxUrl': 'img/b7.jpg',
+    'key': 'gift7'
+  },
+  // 1个（大礼包）
+   {
+    "phone": "misterybox.jpg",
+    "name": "特别奖",
+    'boxUrl': 'img/b10.jpg',
+    'key': 'gift16-1'
+  },
+];
+/*
+
+var member = [
   {
     "phone": "1flower.jpg",
     "name": "一朵太阳花",
@@ -180,3 +311,4 @@ var member = [
     'key': 'gift16-1'
   },
 ];
+*/
